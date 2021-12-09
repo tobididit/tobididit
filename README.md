@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tobididit
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning .Ethical Hacking
+- 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate on Hacking LEGALLY
 - 📫 How to reach me ...
 
